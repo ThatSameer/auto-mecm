@@ -31,5 +31,5 @@ Rename the `settings.conf.example` file to `settings.conf` and add your custom v
 ### Executing program
 Run `Auto-MECM.ps1`
 
-### License
+## License
 [LICENSE document](./LICENSE.md)
