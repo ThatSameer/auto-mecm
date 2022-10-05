@@ -1,0 +1,5 @@
+LOGLOCATION=\\sharedlocation\Auto-MECM
+SITECODE=PR1
+SITESERVER=server.contoso.com
+SCHEDULECOLLECTION=/Some Path/Schedule Collections
+ALLSERVERSCOLLECTION=Windows Servers Collection
